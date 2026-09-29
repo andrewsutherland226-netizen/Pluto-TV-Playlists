@@ -24776,6 +24776,11 @@
         <desc>A pair of star-crossed lovers in Ireland get caught up in their family's land dispute.</desc>
         <icon src="https://images.pluto.tv/series/65771e587295a60014eb35fa/tile_1764971051076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20260930094400 +0000" stop="20260930115600 +0000">
+        <title>Six Degrees of Separation</title>
+        <desc>When compassionate Manhattan art dealers (Stockard Channing and Donald Sutherland) take in a young man (Will Smith) who has been stabbed in Central Park, their world turns amusingly upside down.</desc>
+        <icon src="https://images.pluto.tv/series/691b2d7bd2a007fabade0a82/tile_1763400924747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62bdb7f0db2eb30007376d4d" start="20260930045500 +0000" stop="20260930052300 +0000">
         <title>Cheers</title>
         <desc>Carla acts like a holy terror when her son decides to join the priesthood.</desc>
@@ -33390,6 +33395,11 @@
         <title>Windtalkers</title>
         <desc>True story about members of the Navajo tribe who proudly served the U.S. in WW II as code talkers by using their native language as a code to relay information to military leaders.</desc>
         <icon src="https://images.pluto.tv/series/696faabef65a7c96c637f220/tile_1768927284655.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a9ae4d3bd16a4ed04240d7" start="20260930132800 +0000" stop="20260930155100 +0000">
+        <title>Stargate</title>
+        <desc>When an ancient Egyptian artifact is discovered, two men unlock its secret power as a portal through time and space.</desc>
+        <icon src="https://images.pluto.tv/series/690e16336e0067f40daa226b/tile_1762530876714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69b83e4169056557a9252f61" start="20260930085420 +0000" stop="20260930091630 +0000">
         <title>The Drew Carey Show</title>
@@ -42291,50 +42301,10 @@
         <desc>Without consulting Ricky, Lucy buys new living room furniture, using their old set as a down payment. Waiting for the right moment to tell Ricky the news, she hides the new furniture in the kitchen.</desc>
         <icon src="https://images.pluto.tv/series/63e4f2885957f2001357addd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930130000 +0000" stop="20260930133000 +0000">
+    <programme channel="64ca723a2bc49300081a8966" start="20260930130000 +0000" stop="20260930170000 +0000">
         <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930133000 +0000" stop="20260930140000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930140000 +0000" stop="20260930143000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930143000 +0000" stop="20260930150000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930150000 +0000" stop="20260930153000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930153000 +0000" stop="20260930160000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930160000 +0000" stop="20260930163000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930163000 +0000" stop="20260930170000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ca723a2bc49300081a8966" start="20260930170000 +0000" stop="20260930173000 +0000">
-        <title>Three's Company</title>
-        <desc>Come and knock on our door! The Emmy Award-winning sitcom that defined an era is now streaming 24/7 on Pluto TV. Watch Jack, Janet, Chrissy, Larry, The Ropers, and Mr. Furley in every comic misunderstanding any time you want.</desc>
-        <icon src="https://images.pluto.tv/series/6662ca8b8ea556000800805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64f8a408bd341e000818fcda" start="20260930124000 +0000" stop="20260930130500 +0000">
         <title>RENO 911!</title>
@@ -42871,15 +42841,10 @@
         <desc>South Park's 14th Annual "Cow Days" rodeo and carnival is here and the boys are determined to win Terrance and Phillip dolls.</desc>
         <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1765430981483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="663115d923e24f000843b49c" start="20260930130400 +0000" stop="20260930133100 +0000">
-        <title>South Park</title>
-        <desc>When Sharon Marsh's Aunt Flo makes a monthly visit, she brings a mysterious pet fish for Stan.</desc>
-        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1765430981483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="663115d923e24f000843b49c" start="20260930133100 +0000" stop="20260930135800 +0000">
-        <title>South Park</title>
-        <desc>Dinner with Cartman's family takes a bizarre twist when Uncle Howard shows up after breaking out of prison with the help of his cellmate, Charlie Manson.</desc>
-        <icon src="https://images.pluto.tv/series/630f2f4ebb171a00130c3490/tile_1765430981483.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="663115d923e24f000843b49c" start="20260930130400 +0000" stop="20260930135800 +0000">
+        <title>South Park: Welcome to Canada!</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/663115d923e24f000843b49c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="663115d923e24f000843b49c" start="20260930135800 +0000" stop="20260930142500 +0000">
         <title>South Park</title>
@@ -43026,95 +42991,15 @@
         <desc>Darlene makes a decision about her trip to Hawaii, leading to a heated encounter with Barb; Becky gives a presentation on addiction to Mark's class.</desc>
         <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930130000 +0000" stop="20260930133000 +0000">
+    <programme channel="677f929054f43dad4b325c1c" start="20260930130000 +0000" stop="20260930170000 +0000">
         <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/677f929054f43dad4b325c1c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930133000 +0000" stop="20260930140000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930140000 +0000" stop="20260930143000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930143000 +0000" stop="20260930150000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930150000 +0000" stop="20260930153000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930153000 +0000" stop="20260930160000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930160000 +0000" stop="20260930163000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930163000 +0000" stop="20260930170000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260930170000 +0000" stop="20260930173000 +0000">
-        <title>Just for Laughs GAGS</title>
-        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930125713 +0000" stop="20260930132713 +0000">
+    <programme channel="69172f1699758a0f03459c5b" start="20260930130000 +0000" stop="20260930170000 +0000">
         <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930132713 +0000" stop="20260930135713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930135713 +0000" stop="20260930142713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930142713 +0000" stop="20260930145713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930145713 +0000" stop="20260930152713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930152713 +0000" stop="20260930155713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930155713 +0000" stop="20260930162713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930162713 +0000" stop="20260930165713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260930165713 +0000" stop="20260930172713 +0000">
-        <title>America's Funniest Home Videos</title>
-        <desc>America's Funniest Home Videos</desc>
-        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/featuredImage_1767729487919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6a56ae15bd858f210ae007fe" start="20260930124600 +0000" stop="20260930131600 +0000">
         <title>Petticoat Junction</title>
@@ -44732,6 +44617,11 @@
         <icon src="https://images.pluto.tv/series/69300b7363142c96a9356328/tile_1787286189367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6874ad743ffa5e0c917f6e20" start="20260930140000 +0000" stop="20260930180000 +0000">
+        <title>The Outer Limits</title>
+        <desc>Ready for the unknown? For a new experience that could challenge everything? Because beyond the familiar reality lurks the unfathomable. Cross the border into a world beyond imagination: The Unknown Dimension.</desc>
+        <icon src="https://images.pluto.tv/series/69300b7363142c96a9356328/tile_1787286189367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad743ffa5e0c917f6e20" start="20260930180000 +0000" stop="20260930220000 +0000">
         <title>The Outer Limits</title>
         <desc>Ready for the unknown? For a new experience that could challenge everything? Because beyond the familiar reality lurks the unfathomable. Cross the border into a world beyond imagination: The Unknown Dimension.</desc>
         <icon src="https://images.pluto.tv/series/69300b7363142c96a9356328/tile_1787286189367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -48261,6 +48151,11 @@
         <desc>Watch the Fargo Force and Cedar Rapids RoughRiders face off in live USHL action.</desc>
         <icon src="https://images.pluto.tv/series/6aa4d514e61416122f351cd2/tile_1789187349124.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a67825875fd5e3828e83703" start="20260930172419 +0000" stop="20260930182007 +0000">
+        <title>In The Trenches: 100 Years Of Alaska Hockey</title>
+        <desc>Alaska’s fiercest hockey rivalry: Fairbanks vs Anchorage battle for the Governor’s Cup and century of pride.</desc>
+        <icon src="https://images.pluto.tv/series/6a8434d6840f7d6547100af7/tile_1787049175790.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6a68dd013ee9d9664278cfb6" start="20260930123100 +0000" stop="20260930130100 +0000">
         <title>The NFL Report</title>
         <desc>The NFL Report is NFL Channel's brand-new live news and information show. Hosted by veteran NFL anchor Andrew Siciliano, the show delivers live reporting, analysis and insight on the biggest stories and latest developments from around the NFL.</desc>
@@ -48304,6 +48199,11 @@
     <programme channel="62ea4dadce395f0007086df2" start="20260930150300 +0000" stop="20260930170200 +0000">
         <title>TNA iMPACT!</title>
         <desc>The road to Against All Odds continues from the greater Cincinnati area. Joe Hendry goes one-on-one with TNA World Tag Team Champion Eddie Edwards. Mike Santana and Steve Maclin face off in a highly-anticipated rematch.</desc>
+        <icon src="https://images.pluto.tv/series/65e1ed99794da50014828249/tile_1785535530177.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea4dadce395f0007086df2" start="20260930170200 +0000" stop="20260930190200 +0000">
+        <title>TNA iMPACT!</title>
+        <desc>Celebrate the 20th anniversary of TNA iMPACT! with two championship matches. After continuing to make history throughout the wrestling world, Jordynne Grace defends the Knockouts World Title against Allysin Kay.</desc>
         <icon src="https://images.pluto.tv/series/65e1ed99794da50014828249/tile_1785535530177.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64240d3d466225000827412b" start="20260930114300 +0000" stop="20260930132800 +0000">
@@ -48581,7 +48481,17 @@
         <desc>Robin returns to Cheers broke, but Rebecca's convinced he has millions.</desc>
         <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdb7f0db2eb30007376d4d" start="20260930171000 +0000" stop="20260930210000 +0000">
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20260930171000 +0000" stop="20260930173800 +0000">
+        <title>Cheers</title>
+        <desc>Carla's ex-husband crashes their daughter's wedding celebration.</desc>
+        <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20260930173800 +0000" stop="20260930180600 +0000">
+        <title>Cheers</title>
+        <desc>When Frasier receives a mailgram from Lilith requesting that he start divorce proceedings immediately, the Cheers gang pulls out all the stops to keep his spirits up.</desc>
+        <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile_1784819162699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bdb7f0db2eb30007376d4d" start="20260930180600 +0000" stop="20260930210000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48591,7 +48501,17 @@
         <desc>A dad finds out that parenting is harder than he thought after his wife goes back to work and he's left at home to take care of the kids.</desc>
         <icon src="https://images.pluto.tv/series/62d1c81f75b9dc0013cac7e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92178946c8000079a3160" start="20260930172400 +0000" stop="20260930210000 +0000">
+    <programme channel="62e92178946c8000079a3160" start="20260930172400 +0000" stop="20260930174900 +0000">
+        <title>Rules of Engagement</title>
+        <desc>Jen makes the guys plan a surprise bachelor party for Adam; Jen paints a graphic mural in Jeff and Audrey's nursery.</desc>
+        <icon src="https://images.pluto.tv/series/637657bbd625330013275540/tile_1786486321935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92178946c8000079a3160" start="20260930174900 +0000" stop="20260930181400 +0000">
+        <title>Rules of Engagement</title>
+        <desc>Jeff's plan to prove that Heidi, a college friend, never had feelings for him goes awry; after making a discovery, Timmy quits.</desc>
+        <icon src="https://images.pluto.tv/series/637657bbd625330013275540/tile_1786486321935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92178946c8000079a3160" start="20260930181400 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92178946c8000079a3160/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48601,7 +48521,12 @@
         <desc>Nestled into the British countryside is Halsham house where a poltergeist hides in wait for the team with frightening effect. With bones found in the attic have the team pushed it too far.</desc>
         <icon src="https://images.pluto.tv/series/63c5aeb58ffdc40013f498d7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92a58f3e4290007290c96" start="20260930170500 +0000" stop="20260930210000 +0000">
+    <programme channel="62e92a58f3e4290007290c96" start="20260930170500 +0000" stop="20260930180100 +0000">
+        <title>Most Haunted</title>
+        <desc>Yvette takes her fearless team to a onetime house, onetime museum and now a care home to investigate the strange goings on reported by staff and guests alike. It doesn’t take long for Yvette to regret her decision to go it alone in the cold dark cellar.</desc>
+        <icon src="https://images.pluto.tv/series/63c5aeb58ffdc40013f498d7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e92a58f3e4290007290c96" start="20260930180100 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48611,7 +48536,12 @@
         <desc>A proud movie theater owner must defend his family business from corporate developers alongside a legendary action star as art imitates life in a showdown for the ages.</desc>
         <icon src="https://images.pluto.tv/series/6824a2219f0436e1ab585595/tile_1777571642537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ea3c2e4823db00072788ed" start="20260930172130 +0000" stop="20260930210000 +0000">
+    <programme channel="62ea3c2e4823db00072788ed" start="20260930172130 +0000" stop="20260930192730 +0000">
+        <title>There Be Dragons</title>
+        <desc>A candidate for canonization is investigated by a journalist who discovers his own estranged father had a deep, dark and devastating connection to the saint's life.</desc>
+        <icon src="https://images.pluto.tv/series/69134e226e0067f40d82d371/tile_1762886924324.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea3c2e4823db00072788ed" start="20260930192730 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Action Movies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48621,7 +48551,12 @@
         <desc>The further comedic adventuress of a teenage werewolf as Todd Howard's younger werewolf cousin goes to college on a sports scholarship.</desc>
         <icon src="https://images.pluto.tv/series/691b2d37d2a007fabad6c377/tile_1763400969282.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ea3d24b8e02600071fa296" start="20260930171430 +0000" stop="20260930210000 +0000">
+    <programme channel="62ea3d24b8e02600071fa296" start="20260930171430 +0000" stop="20260930191830 +0000">
+        <title>Barbershop 2: Back in Business (2004)</title>
+        <desc>The Barbershop is threatened by the arrival of a hip, well-financed chain barbershop that's about to open next door.</desc>
+        <icon src="https://images.pluto.tv/series/69b43d1235a5599412fdc14e/tile_1773419795537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea3d24b8e02600071fa296" start="20260930191830 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Comedy Movies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48631,7 +48566,12 @@
         <desc>A group of students travel to a remote and sacred Native American patch of land, in order to complete a thesis on Native American Folklore. This distant swamp area was used hundreds of years ago to judge and to punish murderous criminals</desc>
         <icon src="https://images.pluto.tv/series/68b1f31099a2f3e74afe29e4/tile_1787940361925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ea3f8a38acc80007072d26" start="20260930173900 +0000" stop="20260930210000 +0000">
+    <programme channel="62ea3f8a38acc80007072d26" start="20260930173900 +0000" stop="20260930183200 +0000">
+        <title>Friday The 13th: The Series</title>
+        <desc>A close-knit family, the Cassidys, had a daughter who was kidnapped by a cult of demon worshippers, and track the demon to a secret cavern beneath Curious Goods that the cult uses for its rituals.</desc>
+        <icon src="https://images.pluto.tv/series/6a75d298fb2bd7ef087eccf7/tile_1786456357504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea3f8a38acc80007072d26" start="20260930183200 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48641,7 +48581,22 @@
         <desc>Carrie discovers Doug's parents have shielded him from the truth for years by replacing his dog with look-alikes.</desc>
         <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f4f414c2ba130007f8b24e" start="20260930170900 +0000" stop="20260930210000 +0000">
+    <programme channel="62f4f414c2ba130007f8b24e" start="20260930170900 +0000" stop="20260930173300 +0000">
+        <title>King of Queens</title>
+        <desc>Upset about not getting his way after Carrie agrees to Arthur's choices for dinner and a movie rental, Doug tries to manipulate him into wanting the same things he does.</desc>
+        <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f414c2ba130007f8b24e" start="20260930173300 +0000" stop="20260930180000 +0000">
+        <title>King of Queens</title>
+        <desc>Doug and Carrie borrow twin beds while waiting for a new bed to be delivered and discover that doing things separately has advantages.</desc>
+        <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f414c2ba130007f8b24e" start="20260930180000 +0000" stop="20260930182700 +0000">
+        <title>King of Queens</title>
+        <desc>Newly slim Doug surprises Carrie with a romantic getaway to a resort in the mountains, but she discovers that he had been there with an old girlfriend.</desc>
+        <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile_1788469923175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f414c2ba130007f8b24e" start="20260930182700 +0000" stop="20260930210000 +0000">
         <title>King of Queens</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48651,7 +48606,17 @@
         <desc>Frasier delivers a speech in Klingon at his son's Bar Mitzvah.</desc>
         <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f4f90e39183b000769f12b" start="20260930172000 +0000" stop="20260930210000 +0000">
+    <programme channel="62f4f90e39183b000769f12b" start="20260930172000 +0000" stop="20260930174500 +0000">
+        <title>Frasier</title>
+        <desc>Niles fears that his toothache is the symptom of a heart condition.</desc>
+        <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f90e39183b000769f12b" start="20260930174500 +0000" stop="20260930181300 +0000">
+        <title>Frasier</title>
+        <desc>Niles' surgery brings about reflection of the past, present and future.</desc>
+        <icon src="https://images.pluto.tv/series/63727c80cea64000135d99c7/tile_1787766483424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f4f90e39183b000769f12b" start="20260930181300 +0000" stop="20260930210000 +0000">
         <title>Frasier</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48661,7 +48626,12 @@
         <desc>A travel writer goes to the Maldives and hears about a legendary shipwreck. With the help of her underwater resort's guest experience expert, she might discover love instead of a buried treasure.</desc>
         <icon src="https://images.pluto.tv/series/664dec5a41d4c70014715212/tile_1788557401615.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62fb6cd97b90e60007bc318a" start="20260930174900 +0000" stop="20260930210000 +0000">
+    <programme channel="62fb6cd97b90e60007bc318a" start="20260930174900 +0000" stop="20260930194100 +0000">
+        <title>Hint of Love</title>
+        <desc>A cookbook literary agent with culinary training is tasked with helping elevate the brand of a food channel personality known for his convenience-oriented recipes.</desc>
+        <icon src="https://images.pluto.tv/series/633c3c65cba1290014d42a7f/tile_1787954840192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62fb6cd97b90e60007bc318a" start="20260930194100 +0000" stop="20260930210000 +0000">
         <title>Romance 365</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48691,7 +48661,12 @@
         <desc>A mother buys an antique vanity that contains a spirit who wants her child.</desc>
         <icon src="https://images.pluto.tv/series/657bb360a95cb10014a44e61/tile_1779001215498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63934c218ef524000757b122" start="20260930172400 +0000" stop="20260930210000 +0000">
+    <programme channel="63934c218ef524000757b122" start="20260930172400 +0000" stop="20260930181900 +0000">
+        <title>Eli Roth Presents: A Ghost Ruined My Life</title>
+        <desc>A newlywed couple moves to an isolated home in rural Oregon. Things take a sinister turn when their presence attracts the attention of a demon.</desc>
+        <icon src="https://images.pluto.tv/series/657bb360a95cb10014a44e61/tile_1779001215498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63934c218ef524000757b122" start="20260930181900 +0000" stop="20260930210000 +0000">
         <title>HauntTV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63934c218ef524000757b122/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48711,7 +48686,12 @@
         <desc>Despite mysterious and unnerving warnings from locals, the Ghost Hunters face their fears and stay on mission: to help people confront terrifying paranormal encounters that have shaken them to their core.</desc>
         <icon src="https://images.pluto.tv/series/661ec948bf522d0013521fe9/tile_1785864392952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8ace332fec00081e7ea2" start="20260930175100 +0000" stop="20260930210000 +0000">
+    <programme channel="65cf8ace332fec00081e7ea2" start="20260930175100 +0000" stop="20260930184500 +0000">
+        <title>Ghost Hunters</title>
+        <desc>A family living in a Revolutionary War era house in Pennsylvania fears for their child and urgently calls on the TAPS team for help.</desc>
+        <icon src="https://images.pluto.tv/series/661ec948bf522d0013521fe9/tile_1785864392952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cf8ace332fec00081e7ea2" start="20260930184500 +0000" stop="20260930210000 +0000">
         <title>Ghost Hunters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48721,7 +48701,12 @@
         <desc>Estes imprisons the captive talkers and blends, while Warren and George plan their attack on Altura.</desc>
         <icon src="https://images.pluto.tv/series/667c123892217f00133de38e/tile_1788997321773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67054838ec9d6d00082ee426" start="20260930174800 +0000" stop="20260930210000 +0000">
+    <programme channel="67054838ec9d6d00082ee426" start="20260930174800 +0000" stop="20260930183800 +0000">
+        <title>Z Nation</title>
+        <desc>Warren works with humans, talkers and blends to help George defeat Estes and Pandora.</desc>
+        <icon src="https://images.pluto.tv/series/667c123892217f00133de38e/tile_1788997321773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67054838ec9d6d00082ee426" start="20260930183800 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Zombies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67054838ec9d6d00082ee426/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48731,7 +48716,22 @@
         <desc>A disfigured arsonist with a flamethrower seeks revenge on former coworkers.</desc>
         <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6874ad2f3484d60732267ba8" start="20260930170400 +0000" stop="20260930210000 +0000">
+    <programme channel="6874ad2f3484d60732267ba8" start="20260930170400 +0000" stop="20260930173000 +0000">
+        <title>Scare Tactics</title>
+        <desc>A student assists a beekeeper who is creating a new species of killer bees.</desc>
+        <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad2f3484d60732267ba8" start="20260930173000 +0000" stop="20260930175600 +0000">
+        <title>Scare Tactics</title>
+        <desc>A babysitter discovers a mysterious videotape that foretells her death.</desc>
+        <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad2f3484d60732267ba8" start="20260930175600 +0000" stop="20260930182100 +0000">
+        <title>Scare Tactics</title>
+        <desc>Two undercover journalists learn the scary way what’s really happening at a biotech lab.</desc>
+        <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6874ad2f3484d60732267ba8" start="20260930182100 +0000" stop="20260930210000 +0000">
         <title>Scare Tactics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/featuredImage_1756936025284.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48741,7 +48741,17 @@
         <desc>The ghost hunters explore a local radio station on an old hospital site that is said to be haunted.</desc>
         <icon src="https://images.pluto.tv/series/68f7f735b2633ae3e90679fa/tile_1785203904565.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260930170952 +0000" stop="20260930210000 +0000">
+    <programme channel="68b9afd66985e192657a2b7f" start="20260930170952 +0000" stop="20260930173556 +0000">
+        <title>Ghost Hunters of the Grand River</title>
+        <desc>The ghost hunters investigate Merrill House, a boutique hotel in Prince Edward Country.</desc>
+        <icon src="https://images.pluto.tv/series/68f7f735b2633ae3e90679fa/tile_1785203904565.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b9afd66985e192657a2b7f" start="20260930173556 +0000" stop="20260930180200 +0000">
+        <title>Ghost Hunters of the Grand River</title>
+        <desc>The ghost hunters take an in-depth look at the ghostly tales of the Peterborough Theatre Guild.</desc>
+        <icon src="https://images.pluto.tv/series/68f7f735b2633ae3e90679fa/tile_1785203904565.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b9afd66985e192657a2b7f" start="20260930180200 +0000" stop="20260930210000 +0000">
         <title>APTN Beyond</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/featuredImage_1760948547440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48751,7 +48761,12 @@
         <desc>The agents expose an experiment involving violent teens and alien DNA.</desc>
         <icon src="https://images.pluto.tv/series/693ad40063f946a2cea6c6c4/tile_1765463041865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b023a7613e09a8b209539" start="20260930172900 +0000" stop="20260930210000 +0000">
+    <programme channel="691b023a7613e09a8b209539" start="20260930172900 +0000" stop="20260930182100 +0000">
+        <title>The X-Files</title>
+        <desc>Mulder and Scully face killer poltergeists at a nursing home.</desc>
+        <icon src="https://images.pluto.tv/series/693ad40063f946a2cea6c6c4/tile_1765463041865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b023a7613e09a8b209539" start="20260930182100 +0000" stop="20260930210000 +0000">
         <title>The X-Files</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b023a7613e09a8b209539/featuredImage_1767288050074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48761,7 +48776,12 @@
         <desc>With help from a gangster, a betrayed man (Curtis "50 Cent" Jackson) seeks revenge for a heist gone wrong.</desc>
         <icon src="https://images.pluto.tv/series/69408e041a8e9be91b862cdc/tile_1765838342812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691e0561e32eb094b835c418" start="20260930174500 +0000" stop="20260930210000 +0000">
+    <programme channel="691e0561e32eb094b835c418" start="20260930174500 +0000" stop="20260930193700 +0000">
+        <title>The 2nd</title>
+        <desc>A Secret Service agent must save his son and the daughter of a Supreme Court justice from armed terrorists.</desc>
+        <icon src="https://images.pluto.tv/series/69439bfdd405d15a955a32f9/tile_1766039487831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691e0561e32eb094b835c418" start="20260930193700 +0000" stop="20260930210000 +0000">
         <title>Fresh Movies by VVS Films</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691e0561e32eb094b835c418/featuredImage_1765876969706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48781,7 +48801,22 @@
         <desc>Drew serves as a sex therapist for his parents. Mimi gives advice to Drew's mom on how to fix her marriage.</desc>
         <icon src="https://images.pluto.tv/series/69f121ce90dc413f5314bbe7/tile_1779137801665.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b83e4169056557a9252f61" start="20260930170656 +0000" stop="20260930210000 +0000">
+    <programme channel="69b83e4169056557a9252f61" start="20260930170656 +0000" stop="20260930173036 +0000">
+        <title>The Drew Carey Show</title>
+        <desc>In an improvised live episode, Drew and his friends are joined by the stars of "Whose Line Is It Anyway?"</desc>
+        <icon src="https://images.pluto.tv/series/69f121ce90dc413f5314bbe7/tile_1779137801665.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b83e4169056557a9252f61" start="20260930173036 +0000" stop="20260930175617 +0000">
+        <title>The Drew Carey Show</title>
+        <desc>The staff must deal with the store's new efficiency expert, Christine, who makes life miserable for everyone.</desc>
+        <icon src="https://images.pluto.tv/series/69f121ce90dc413f5314bbe7/tile_1779137801665.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b83e4169056557a9252f61" start="20260930175617 +0000" stop="20260930181803 +0000">
+        <title>The Drew Carey Show</title>
+        <desc>Drew has ended marriages with Kate, Nicki, and Mr. Wick, and now he's dating his new boss, Christine.</desc>
+        <icon src="https://images.pluto.tv/series/69f121ce90dc413f5314bbe7/tile_1779137801665.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b83e4169056557a9252f61" start="20260930181803 +0000" stop="20260930210000 +0000">
         <title>Hit Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b83e4169056557a9252f61/featuredImage_1773682310878.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48791,7 +48826,17 @@
         <desc>Every evening, starting at Midnight ET/9pm PT, Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
         <icon src="https://images.pluto.tv/series/6a6a59718d868390959a05df/tile_1785442047885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a28960eee86450920a1cab3" start="20260930173000 +0000" stop="20260930210000 +0000">
+    <programme channel="6a28960eee86450920a1cab3" start="20260930173000 +0000" stop="20260930180000 +0000">
+        <title>Pluto TV Spicy</title>
+        <desc>Every evening, starting at Midnight ET/9pm PT, Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
+        <icon src="https://images.pluto.tv/series/6a6a59718d868390959a05df/tile_1785442047885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a28960eee86450920a1cab3" start="20260930180000 +0000" stop="20260930183000 +0000">
+        <title>Pluto TV Spicy</title>
+        <desc>Every evening, starting at Midnight ET/9pm PT, Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
+        <icon src="https://images.pluto.tv/series/6a6a59718d868390959a05df/tile_1785442047885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a28960eee86450920a1cab3" start="20260930183000 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Spicy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a28960eee86450920a1cab3/featuredImage_1785179066801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48801,7 +48846,17 @@
         <desc>After a minor spat with Nikki gets blown way out of proportion, Kim spendsThanksgiving alone.</desc>
         <icon src="https://images.pluto.tv/series/6a4d63850bd9448d819a1d49/tile_1787870883814.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a315581df0b6d462c18397e" start="20260930172300 +0000" stop="20260930210000 +0000">
+    <programme channel="6a315581df0b6d462c18397e" start="20260930172300 +0000" stop="20260930174900 +0000">
+        <title>The Parkers</title>
+        <desc>Nikki tries out for cheerleading and Professor Oglevee tries too hard to be hip.</desc>
+        <icon src="https://images.pluto.tv/series/6a4d63850bd9448d819a1d49/tile_1787870883814.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a315581df0b6d462c18397e" start="20260930174900 +0000" stop="20260930181500 +0000">
+        <title>The Parkers</title>
+        <desc>Nikki and the handsome new Pastor of her church make beautiful music together.</desc>
+        <icon src="https://images.pluto.tv/series/6a4d63850bd9448d819a1d49/tile_1787870883814.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a315581df0b6d462c18397e" start="20260930181500 +0000" stop="20260930210000 +0000">
         <title>Pluto TV 90s Hit Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a315581df0b6d462c18397e/featuredImage_1783520464794.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48811,7 +48866,17 @@
         <desc>A Gestapo female operative tries to lure secrets out of Sergeant Schultz.</desc>
         <icon src="https://images.pluto.tv/series/6a590b443630c7ab4a5a452e/tile_1784220485068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56adb02f9e0117d78f5b44" start="20260930172100 +0000" stop="20260930210000 +0000">
+    <programme channel="6a56adb02f9e0117d78f5b44" start="20260930172100 +0000" stop="20260930175200 +0000">
+        <title>Hogan's Heroes</title>
+        <desc>The Germans plot to send an impostor of a captured English officer to kill Winston Churchill. Hogan plots how to foil the plan and keep the real officer alive.</desc>
+        <icon src="https://images.pluto.tv/series/6a590b443630c7ab4a5a452e/tile_1784220485068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56adb02f9e0117d78f5b44" start="20260930175200 +0000" stop="20260930182300 +0000">
+        <title>Hogan's Heroes</title>
+        <desc>General Burkhalter comes to Stalag 13 determined to marry off his sister to Klink. Hogan has to find a planted German agent in the Underground.</desc>
+        <icon src="https://images.pluto.tv/series/6a590b443630c7ab4a5a452e/tile_1784220485068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56adb02f9e0117d78f5b44" start="20260930182300 +0000" stop="20260930210000 +0000">
         <title>Hogan's Heroes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/featuredImage_1784069707330.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48821,7 +48886,12 @@
         <desc>Two U.S. Supreme Court Justices have died mysteriously but Justice Chaynedis misses secret agent James T. West's concern for his life.</desc>
         <icon src="https://images.pluto.tv/series/6a590d5ef672c3d2df7d40a9/tile_1784221023271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56add5f7dc4ada892d374b" start="20260930174000 +0000" stop="20260930210000 +0000">
+    <programme channel="6a56add5f7dc4ada892d374b" start="20260930174000 +0000" stop="20260930184100 +0000">
+        <title>The Wild Wild West</title>
+        <desc>Secret agent James T. West poses as a Federal prison inspector and his side-kick, Artemus Gordon, pretends he is a preacher when the two are assigned to halt an organized outbreak of terror that has paralyzed a western community.</desc>
+        <icon src="https://images.pluto.tv/series/6a590d5ef672c3d2df7d40a9/tile_1784221023271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a56add5f7dc4ada892d374b" start="20260930184100 +0000" stop="20260930210000 +0000">
         <title>The Wild Wild West</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/featuredImage_1784069781833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48831,7 +48901,17 @@
         <desc>Carl becomes distressed when Mother Winslow goes camping with her boyfriend. Eddie's near-death experience helps him realize that breaking up with his girlfriend isn't so bad.</desc>
         <icon src="https://images.pluto.tv/series/6a987eddda71d9a75f3dd13c/tile_1788378846441.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a71f490f5f14c2045cd6118" start="20260930171800 +0000" stop="20260930210000 +0000">
+    <programme channel="6a71f490f5f14c2045cd6118" start="20260930171800 +0000" stop="20260930174700 +0000">
+        <title>Full House</title>
+        <desc>The family visits Hollywood for the taping of Joey's TV pilot.</desc>
+        <icon src="https://images.pluto.tv/series/6a987d71ed186c2c853a2f3e/tile_1788378502290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a71f490f5f14c2045cd6118" start="20260930174700 +0000" stop="20260930181600 +0000">
+        <title>Full House</title>
+        <desc>D.J. sneaks out against Danny's wishes to meet her boyfriend.</desc>
+        <icon src="https://images.pluto.tv/series/6a987d71ed186c2c853a2f3e/tile_1788378502290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a71f490f5f14c2045cd6118" start="20260930181600 +0000" stop="20260930210000 +0000">
         <title>Pluto TV TGIF Comedy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/featuredImage_1787758103420.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48841,7 +48921,22 @@
         <desc>The Azeez and Herbert families face off for the chance to play Fast Money and win $10,000.</desc>
         <icon src="https://images.pluto.tv/series/6aa96d3b90639e3b19343d83/tile_1789488519777.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a7b1e40ad0d80253c6e10ce" start="20260930171739 +0000" stop="20260930210000 +0000">
+    <programme channel="6a7b1e40ad0d80253c6e10ce" start="20260930171739 +0000" stop="20260930173915 +0000">
+        <title>Family Feud Canada</title>
+        <desc>The Azeez family returns to face the Elston family.</desc>
+        <icon src="https://images.pluto.tv/series/6aa96d3b90639e3b19343d83/tile_1789488519777.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a7b1e40ad0d80253c6e10ce" start="20260930173915 +0000" stop="20260930175848 +0000">
+        <title>Family Feud Canada</title>
+        <desc>The Azeez family returns to face the Rae family.</desc>
+        <icon src="https://images.pluto.tv/series/6aa96d3b90639e3b19343d83/tile_1789488519777.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a7b1e40ad0d80253c6e10ce" start="20260930175848 +0000" stop="20260930182011 +0000">
+        <title>Family Feud Canada</title>
+        <desc>The Rae family returns to face the Clarke family.</desc>
+        <icon src="https://images.pluto.tv/series/6aa96d3b90639e3b19343d83/tile_1789488519777.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a7b1e40ad0d80253c6e10ce" start="20260930182011 +0000" stop="20260930210000 +0000">
         <title>Family Feud Canada</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a7b1e40ad0d80253c6e10ce/featuredImage_1789509041666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48851,7 +48946,17 @@
         <desc>Angling legend Jimmy Houston takes us on his most successful trips with big fish and hilarious antics.</desc>
         <icon src="https://images.pluto.tv/series/6aac0435a311e7c50e91f511/tile_1789658195532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a8d96996d62a56d3bdd959c" start="20260930173000 +0000" stop="20260930210000 +0000">
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20260930173000 +0000" stop="20260930180000 +0000">
+        <title>Jimmy Houston Fishing</title>
+        <desc>Angling legend Jimmy Houston takes us on his most successful trips with big fish and hilarious antics.</desc>
+        <icon src="https://images.pluto.tv/series/6aac0435a311e7c50e91f511/tile_1789658195532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20260930180000 +0000" stop="20260930183000 +0000">
+        <title>Remote Lakes, Big Fish, Epic Days</title>
+        <desc>Paul and Perry kick off an adventurous journey down the Ivanhoe River, heading toward a lake that’s known to deliver steady walleye action. But this time, the fish had other plans. With walleye proving tough to track down, the duo turns to the river’s...</desc>
+        <icon src="https://images.pluto.tv/series/6aac042bcb18e0ed027c457f/tile_1789658173295.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a8d96996d62a56d3bdd959c" start="20260930183000 +0000" stop="20260930210000 +0000">
         <title>Wired2Fish TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/featuredImage_1788890483452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -48861,7 +48966,12 @@
         <desc>Mannix and Mora recap Lopez vs. Romero and look ahead to what’s next for both fighters.</desc>
         <icon src="https://images.pluto.tv/series/6aac041fde3a888e5a4d6c61/tile_1789658150068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a8d96aa2cfd341eb5809214" start="20260930180000 +0000" stop="20260930210000 +0000">
+    <programme channel="6a8d96aa2cfd341eb5809214" start="20260930180000 +0000" stop="20260930183000 +0000">
+        <title>SI Covers - Curt Cignetti Inteview</title>
+        <desc>Pat Forde sits down with Curt Cignetti to discuss a perfect season, leadership, and life beyond football.</desc>
+        <icon src="https://images.pluto.tv/series/6aac0422de3a888e5a4d6c6d/tile_1789658153428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a8d96aa2cfd341eb5809214" start="20260930183000 +0000" stop="20260930210000 +0000">
         <title>SI TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/featuredImage_1789677458591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -49981,17 +50091,7 @@
         <desc>The Master plans to seize the Crystal of Kronos, gaining power over time itself.</desc>
         <icon src="https://images.pluto.tv/series/69491e1f287ec44e14f20157/tile_1766399542931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdad934d73d50007a82472" start="20260930170700 +0000" stop="20260930173700 +0000">
-        <title>Doctor Who</title>
-        <desc>The Master manages to transmit the Lost City's High Priest through time into his laboratory.</desc>
-        <icon src="https://images.pluto.tv/series/69491e1f287ec44e14f20157/tile_1766399542931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62bdad934d73d50007a82472" start="20260930173700 +0000" stop="20260930180500 +0000">
-        <title>Doctor Who</title>
-        <desc>The High Priest reveals that the Master has only a portion of the crystal that resides in the temple vaults.</desc>
-        <icon src="https://images.pluto.tv/series/69491e1f287ec44e14f20157/tile_1766399542931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62bdad934d73d50007a82472" start="20260930180500 +0000" stop="20260930210000 +0000">
+    <programme channel="62bdad934d73d50007a82472" start="20260930170700 +0000" stop="20260930210000 +0000">
         <title>Doctor Who Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdad934d73d50007a82472/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50001,12 +50101,7 @@
         <desc>Mitch finds himself falling for an Italian actress who is being stalked by ruthless robbers. Meanwhile, CJ and Stephanie help Guido pretend to be a lifeguard in order to impress his visiting mother.</desc>
         <icon src="https://images.pluto.tv/series/630cff3c37c5800013b35029/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdae69a47b6c00076af298" start="20260930174500 +0000" stop="20260930183500 +0000">
-        <title>Baywatch</title>
-        <desc>When he risks his life to save three teenagers, Mitch fractures his spine and is paralyzed. Hobie, Stephanie, and Sophie, his physical therapist, rally to repair his shattered life.</desc>
-        <icon src="https://images.pluto.tv/series/630cff3c37c5800013b35029/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62bdae69a47b6c00076af298" start="20260930183500 +0000" stop="20260930210000 +0000">
+    <programme channel="62bdae69a47b6c00076af298" start="20260930174500 +0000" stop="20260930210000 +0000">
         <title>Baywatch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50016,17 +50111,7 @@
         <desc>Responding to sexist taunts, the girls' swim team challenges the boys' soccer team to a battle of the sexes. But when star swimmer Melanie gets teased about her first bra, she pulls out of the race.</desc>
         <icon src="https://images.pluto.tv/series/69f114bb11a68f770422051f/tile_1777407164307.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bdaf3470f09a000714a2f6" start="20260930171900 +0000" stop="20260930174800 +0000">
-        <title>Degrassi Junior High</title>
-        <desc>Whispered stories about Caitlin's favorite teacher, Ms. Avery, hint that she is a lesbian. Troubled by the accusations and by doubts about her own sexuality, Caitlin confronts Ms. Avery, who helps her understand that rumors never tell the whole story.</desc>
-        <icon src="https://images.pluto.tv/series/69f114bb11a68f770422051f/tile_1777407164307.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62bdaf3470f09a000714a2f6" start="20260930174800 +0000" stop="20260930181700 +0000">
-        <title>Degrassi Junior High</title>
-        <desc>When Stephanie and Wheels decide to date, they feel pressure from friends to become sexually involved. Meanwhile, Stephanie's brother Arthur has arranged to show an x-rated video to a group of his grade seven friends.</desc>
-        <icon src="https://images.pluto.tv/series/69f114bb11a68f770422051f/tile_1777407164307.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62bdaf3470f09a000714a2f6" start="20260930181700 +0000" stop="20260930210000 +0000">
+    <programme channel="62bdaf3470f09a000714a2f6" start="20260930171900 +0000" stop="20260930210000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50036,12 +50121,7 @@
         <desc>An old friend of Aunt Joan's turns up, stirring up old memories. In the meanwhile, both Doc Martin and Elaine are struggling with other people's affections.</desc>
         <icon src="https://images.pluto.tv/series/62e2ec51be1ffb0014099c1a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e922f6675f71000736db3b" start="20260930170800 +0000" stop="20260930180400 +0000">
-        <title>Doc Martin</title>
-        <desc>Word is getting out in the village about the doctor's 'little problem' with blood. When Peter Cronk is hurt, concern about him brings Martin and Louisa closer together.</desc>
-        <icon src="https://images.pluto.tv/series/62e2ec51be1ffb0014099c1a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62e922f6675f71000736db3b" start="20260930180400 +0000" stop="20260930210000 +0000">
+    <programme channel="62e922f6675f71000736db3b" start="20260930170800 +0000" stop="20260930210000 +0000">
         <title>Doc Martin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e922f6675f71000736db3b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50051,17 +50131,7 @@
         <desc>As the contenders for the battle of Block D dwindle to only thirty, Rebecca has her hands full with the menacing Suleiman the Beheader! All hope seems lost that she can take him down and move on to the finals!</desc>
         <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e94ec74823db0007277a8f" start="20260930171300 +0000" stop="20260930174100 +0000">
-        <title>One Piece</title>
-        <desc>The battle for Block D comes to a shocking end and the winner that emerges from the cloud of dust stuns the audience even more! Meanwhile, Luffy, Zoro, Kin'emon, and Wicka of the Tontatta Tribe are about to reach the lift to the palace.</desc>
-        <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62e94ec74823db0007277a8f" start="20260930174100 +0000" stop="20260930180900 +0000">
-        <title>One Piece</title>
-        <desc>Viola, aka Violet, once a great princess of the Dressrosa family, shows Luffy &amp; the others a secret entrance into the palace which avoids the use of the heavily-guarded lift. In the palace's Suit Chamber, Navy Admiral Fujitora reveals his plans.</desc>
-        <icon src="https://images.pluto.tv/series/67aa2c58679ec6993f5fb777/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62e94ec74823db0007277a8f" start="20260930180900 +0000" stop="20260930210000 +0000">
+    <programme channel="62e94ec74823db0007277a8f" start="20260930171300 +0000" stop="20260930210000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50071,12 +50141,7 @@
         <desc>Cassie, Grace, and Abigail embark on a road trip to Cassie’s alma mater, Wellingsly College. There, Cassie reconnects with an old friend, who’s contemplating her future as a professor.</desc>
         <icon src="https://images.pluto.tv/series/647f76f0a7ef77001ae8d0f6/tile_1787870881852.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62fb9ade112ca70007d8441d" start="20260930172700 +0000" stop="20260930181900 +0000">
-        <title>Private Eyes CA</title>
-        <desc>During her recovery from an injury, Angie hears someone threatened from her hospital room while under the influence of a drug; no one believes her.</desc>
-        <icon src="https://images.pluto.tv/series/6373a80ffb1ff50013671245/tile_1786321801918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62fb9ade112ca70007d8441d" start="20260930181900 +0000" stop="20260930210000 +0000">
+    <programme channel="62fb9ade112ca70007d8441d" start="20260930172700 +0000" stop="20260930210000 +0000">
         <title>Nonstop Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50086,17 +50151,7 @@
         <desc>Childhood friends and antiques collectors, Mike Wolfe and Frank Fritz, travel the United States looking for rare artifacts and national treasures.</desc>
         <icon src="https://images.pluto.tv/series/66a0bbc49322c00013c2b403/tile_1762470307809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6408ae8f9b39550008caf94f" start="20260930170400 +0000" stop="20260930175800 +0000">
-        <title>American Pickers</title>
-        <desc>Childhood friends and antiques collectors, Mike Wolfe and Frank Fritz, travel the United States looking for rare artifacts and national treasures.</desc>
-        <icon src="https://images.pluto.tv/series/66a0bbc49322c00013c2b403/tile_1762470307809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6408ae8f9b39550008caf94f" start="20260930175800 +0000" stop="20260930185100 +0000">
-        <title>American Pickers</title>
-        <desc>Childhood friends and antiques collectors, Mike Wolfe and Frank Fritz, travel the United States looking for rare artifacts and national treasures.</desc>
-        <icon src="https://images.pluto.tv/series/66a0bbc49322c00013c2b403/tile_1762470307809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6408ae8f9b39550008caf94f" start="20260930185100 +0000" stop="20260930210000 +0000">
+    <programme channel="6408ae8f9b39550008caf94f" start="20260930170400 +0000" stop="20260930210000 +0000">
         <title>American Pickers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50106,17 +50161,7 @@
         <desc>Catelynn, Amber and Maci join Nessa to watch unseen moments from Season 6, including birthdays, baby news and disagreements, and Amber comments on her fight with Farrah at the reunion.</desc>
         <icon src="https://images.pluto.tv/series/64dbc590c6c2a60013df216d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f89fcfd661bb00081ba45c" start="20260930170400 +0000" stop="20260930175300 +0000">
-        <title>Teen Mom</title>
-        <desc>Farrah is wary of Debra as she opens her third store, Tyler reflects on his emotional state, Maci celebrates Halloween with her extended family, and Amber is hurt by Gary's lack of trust.</desc>
-        <icon src="https://images.pluto.tv/series/64dbc590c6c2a60013df216d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64f89fcfd661bb00081ba45c" start="20260930175300 +0000" stop="20260930184500 +0000">
-        <title>Geordie Shore</title>
-        <desc>Bethan decides she needs to leave but Beau stays behind with the family. At a house party, Ant stirs up some trouble between Louis and Chloe, which causes beef among the lads. (S21, ep7)</desc>
-        <icon src="https://images.pluto.tv/series/64f22c40020c540013d89fb1/tile_1782268931602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64f89fcfd661bb00081ba45c" start="20260930184500 +0000" stop="20260930210000 +0000">
+    <programme channel="64f89fcfd661bb00081ba45c" start="20260930170400 +0000" stop="20260930210000 +0000">
         <title>MTV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/featuredImage_1779087603773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50126,12 +50171,7 @@
         <desc>The house conspires to figure out the next perfect couple. Kayla is called out for playing Ryan and Wes, while Simone tries to break up Chris T and Shanley for good.  And a trip to the Truth Booth sends the house into chaos.</desc>
         <icon src="https://images.pluto.tv/series/64dbcc985f344000134ac250/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f8a0c230ab3300084369b8" start="20260930171400 +0000" stop="20260930180400 +0000">
-        <title>Ex on The Beach</title>
-        <desc>Fed up with Maya's mean-girl ways, Diandra befriends the newest ex to gain strength in numbers, and an unexpected surprise jeopardizes one of the house's strongest couples.</desc>
-        <icon src="https://images.pluto.tv/series/64dbc9cc8a0f710013acbb29/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64f8a0c230ab3300084369b8" start="20260930180400 +0000" stop="20260930210000 +0000">
+    <programme channel="64f8a0c230ab3300084369b8" start="20260930171400 +0000" stop="20260930210000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50141,17 +50181,7 @@
         <desc>Nick and Melissa fell in love at age 12 when they met on an online chat room. Now 18, Nick is ready to meet Melissa. But is Melissa the real deal or has Nick been entangled in lies?</desc>
         <icon src="https://images.pluto.tv/series/64f63309c564500013324963/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64f8a2a23a0d700008a6ed7b" start="20260930170600 +0000" stop="20260930175500 +0000">
-        <title>Catfish: The TV Show</title>
-        <desc>Jesse met Brian online. They made plans to meet, but Brian stood her up. Now, years later, Brian has asked her to live with him. But, she can't stop wondering - what is Brian hiding?</desc>
-        <icon src="https://images.pluto.tv/series/64f63309c564500013324963/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64f8a2a23a0d700008a6ed7b" start="20260930175500 +0000" stop="20260930184400 +0000">
-        <title>Catfish: The TV Show</title>
-        <desc>For over seven years, Ashley has sent dramatically altered photos of herself to her soul mate, Mike, to make her look thinner and more attractive to him.</desc>
-        <icon src="https://images.pluto.tv/series/64f63309c564500013324963/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64f8a2a23a0d700008a6ed7b" start="20260930184400 +0000" stop="20260930210000 +0000">
+    <programme channel="64f8a2a23a0d700008a6ed7b" start="20260930170600 +0000" stop="20260930210000 +0000">
         <title>Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64f8a2a23a0d700008a6ed7b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50161,12 +50191,7 @@
         <desc>Shelby must rely on niece Stephanie and cousin Belinda to do his dirty work; the rigging guys formulate a plan to get rid of DJ; James must cope with his dad's health issues while also leading his crew.</desc>
         <icon src="https://images.pluto.tv/series/65e1ae9b5c25f6001340db16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20260930174300 +0000" stop="20260930183400 +0000">
-        <title>Ax Men</title>
-        <desc>DJ Jeremiah is pushed to his breaking point; Coatsy boots Joe Linderborg from his seat in the yarder; the Dreadknots find themselves on the wrong end of a falling log; Shelby and his assistants fight to claim the biggest Cypress of the season.</desc>
-        <icon src="https://images.pluto.tv/series/65e1ae9b5c25f6001340db16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20260930183400 +0000" stop="20260930210000 +0000">
+    <programme channel="6540fe4bbdf3cf0008aa2cdd" start="20260930174300 +0000" stop="20260930210000 +0000">
         <title>Ax Men</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fe4bbdf3cf0008aa2cdd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50176,17 +50201,7 @@
         <desc>Spring-cleaning in the warehouse leads to a competitive round of table tennis; Uncle Si makes a long-overdue visit to the eye doctor.</desc>
         <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fe6fbfbaec0008a583ae" start="20260930171800 +0000" stop="20260930174400 +0000">
-        <title>Duck Dynasty</title>
-        <desc>Willie gets bit by the broadcasting bug and decides to host his own radio show; the neighborhood homeowners association goes after Jase.</desc>
-        <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6540fe6fbfbaec0008a583ae" start="20260930174400 +0000" stop="20260930181000 +0000">
-        <title>Duck Dynasty</title>
-        <desc>The guys pig out at a new doughnut shop; Si wins a camper in a raffle and uses it as his personal office; Phil and Miss Kay drag Willie along on a furniture-buying excursion.</desc>
-        <icon src="https://images.pluto.tv/series/657987bbef340f0013fd9a9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6540fe6fbfbaec0008a583ae" start="20260930181000 +0000" stop="20260930210000 +0000">
+    <programme channel="6540fe6fbfbaec0008a583ae" start="20260930171800 +0000" stop="20260930210000 +0000">
         <title>Duck Dynasty</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fe6fbfbaec0008a583ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50196,12 +50211,7 @@
         <desc>Abby challenges Nia and Kendall with tough trios; the group tribute to Madonna leaves the mothers wanting more; Holly suspects Abby has a hidden agenda for Nia and brings in Nia's manager to investigate; Abby abandons the team.</desc>
         <icon src="https://images.pluto.tv/series/66db0b25d404600013bae477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fec1770cf1000866b65b" start="20260930175800 +0000" stop="20260930191800 +0000">
-        <title>Dance Moms</title>
-        <desc>Abby challenges the minis with a beauty pageant-themed dance; the elites feel the pressure to perform in a Prince tribute dance; Abby assigns two duets; when Nia falls ill, Kendall is left without a partner.</desc>
-        <icon src="https://images.pluto.tv/series/66db0b25d404600013bae477/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6540fec1770cf1000866b65b" start="20260930191800 +0000" stop="20260930210000 +0000">
+    <programme channel="6540fec1770cf1000866b65b" start="20260930175800 +0000" stop="20260930210000 +0000">
         <title>Dance Moms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fec1770cf1000866b65b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50211,12 +50221,7 @@
         <desc>Dog takes the crew horseback riding in Denver; Dog helps a bondsman friend track a missing longtime customer.</desc>
         <icon src="https://images.pluto.tv/series/65f1729d16305f001384040c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6540fee72cf13100085d5a18" start="20260930171300 +0000" stop="20260930180400 +0000">
-        <title>Dog the Bounty Hunter</title>
-        <desc>Dog and his team head to Colorado to catch a drug dealer, who has been on the run for 10 months and whose bondsman stands to lose the family business.</desc>
-        <icon src="https://images.pluto.tv/series/65f1729d16305f001384040c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6540fee72cf13100085d5a18" start="20260930180400 +0000" stop="20260930210000 +0000">
+    <programme channel="6540fee72cf13100085d5a18" start="20260930171300 +0000" stop="20260930210000 +0000">
         <title>Dog The Bounty Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6540fee72cf13100085d5a18/featuredImage_1778003945126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50226,12 +50231,7 @@
         <desc>Owners Mark and Ozzie call on Jon for a second time when they need help with their outdated and failing bar, The Edge of Town, in Blue Springs, MO.</desc>
         <icon src="https://images.pluto.tv/series/655f5978c347d5001380a891/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f2ee6c0fc88000877d26c" start="20260930171300 +0000" stop="20260930180200 +0000">
-        <title>Bar Rescue</title>
-        <desc>Jon arrives in Littleton, Colorado, to find a mother and son at odds over running the haphazardly decorated G.I. Jodi's, which was originally conceived to honor the military.</desc>
-        <icon src="https://images.pluto.tv/series/655f5978c347d5001380a891/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="655f2ee6c0fc88000877d26c" start="20260930180200 +0000" stop="20260930210000 +0000">
+    <programme channel="655f2ee6c0fc88000877d26c" start="20260930171300 +0000" stop="20260930210000 +0000">
         <title>Bar Rescue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50241,12 +50241,7 @@
         <desc>Rayna amps up promotion on her album while Juliette faces a personal crossroad.</desc>
         <icon src="https://images.pluto.tv/series/6616dd780fb7c10013abe5ce/tile_1778862962818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8d7428730900087c5907" start="20260930171700 +0000" stop="20260930180800 +0000">
-        <title>Nashville</title>
-        <desc>Rayna sets the wedding date and Juliette grapples with her secret while auditioning for a biopic.</desc>
-        <icon src="https://images.pluto.tv/series/6616dd780fb7c10013abe5ce/tile_1778862962818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65cf8d7428730900087c5907" start="20260930180800 +0000" stop="20260930210000 +0000">
+    <programme channel="65cf8d7428730900087c5907" start="20260930171700 +0000" stop="20260930210000 +0000">
         <title>Nashville</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cf8d7428730900087c5907/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50256,17 +50251,7 @@
         <desc>Kiera and Carlos must stop Liber8 from committing a devastating chemical attack on the city.</desc>
         <icon src="https://images.pluto.tv/series/6740d8f12678a500144eb912/tile_1776980191187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66166cb1307fa30008f275e7" start="20260930170432 +0000" stop="20260930175632 +0000">
-        <title>Continuum</title>
-        <desc>Kiera crash-lands her CPS flyer during a prisoner transport in 2076 and must work with her enemy captive.</desc>
-        <icon src="https://images.pluto.tv/series/6740d8f12678a500144eb912/tile_1776980191187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166cb1307fa30008f275e7" start="20260930175632 +0000" stop="20260930185532 +0000">
-        <title>Fringe</title>
-        <desc>When a music prodigy is kidnapped, it's discovered that a sequence of flashing lights appeared at the abduction — which Walter links back to his bunkmate at St. Claire's Hospital.</desc>
-        <icon src="https://images.pluto.tv/series/698de820a8f69b2a1deb761c/tile_1789052042241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166cb1307fa30008f275e7" start="20260930185532 +0000" stop="20260930210000 +0000">
+    <programme channel="66166cb1307fa30008f275e7" start="20260930170432 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Sci-fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50276,17 +50261,7 @@
         <desc>Everyone helps Rosemary as the governor visits early; Nathan is called away to help with land trouble, only to find himself in unexpected danger and with surprising intel.</desc>
         <icon src="https://images.pluto.tv/series/67a5d31c3d4e117043d78590/tile_1766509826062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6729d651c7626f0008b5dacf" start="20260930171100 +0000" stop="20260930180000 +0000">
-        <title>When Calls the Heart</title>
-        <desc>The town prepares for the governor's black-tie ball; while still reeling from the true intentions of Union City Holdings, Lucas decides to try to sway the governor to their side.</desc>
-        <icon src="https://images.pluto.tv/series/67a5d31c3d4e117043d78590/tile_1766509826062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6729d651c7626f0008b5dacf" start="20260930180000 +0000" stop="20260930194300 +0000">
-        <title>Mixed Baggage</title>
-        <desc>When Evie Jones rushes off a flight to make her connection, she accidentally grabs the wrong green duffel bag. Upon realizing this, she tries to return the bag to its rightful owner.</desc>
-        <icon src="https://images.pluto.tv/series/67d0976bf258b1ad93d235dc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6729d651c7626f0008b5dacf" start="20260930194300 +0000" stop="20260930210000 +0000">
+    <programme channel="6729d651c7626f0008b5dacf" start="20260930171100 +0000" stop="20260930210000 +0000">
         <title>Super Channel Hearties</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/featuredImage_1785520945293.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50296,12 +50271,7 @@
         <desc>It is 3 AM and Deputy Torres is cruising a Texas highway when he suddenly spots a crushed pick-up truck along the side of the road. Trapped inside is the lifeless body of 24-year-old Luis Reyes.</desc>
         <icon src="https://images.pluto.tv/series/679a794cacbab10014955bc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67922858b83355184c699699" start="20260930171900 +0000" stop="20260930181000 +0000">
-        <title>Dr. G: Medical Examiner</title>
-        <desc>Carol Moleskie agrees to go on a hunting excursion with her husband, Bob. A few hours after they enter the woods, they emerge again, Bob frantically waving down traffic as he carries his bloody wife.</desc>
-        <icon src="https://images.pluto.tv/series/679a794cacbab10014955bc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67922858b83355184c699699" start="20260930181000 +0000" stop="20260930210000 +0000">
+    <programme channel="67922858b83355184c699699" start="20260930171900 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67922858b83355184c699699/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50311,12 +50281,7 @@
         <desc>Dylan is sought by Commonwealth Security in connection to a murder.</desc>
         <icon src="https://images.pluto.tv/series/65085ef4020c540013394d7a/tile_1786125962655.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6850335b5965a2fd49f7e36d" start="20260930173900 +0000" stop="20260930183000 +0000">
-        <title>Andromeda</title>
-        <desc>The Andromeda encounters problems after picking up a group of mentally imbalanced refugees.</desc>
-        <icon src="https://images.pluto.tv/series/65085ef4020c540013394d7a/tile_1786125962655.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6850335b5965a2fd49f7e36d" start="20260930183000 +0000" stop="20260930210000 +0000">
+    <programme channel="6850335b5965a2fd49f7e36d" start="20260930173900 +0000" stop="20260930210000 +0000">
         <title>Andromeda</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/featuredImage_1753258982071.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50326,22 +50291,17 @@
         <desc>Ready for the unknown? For a new experience that could challenge everything? Because beyond the familiar reality lurks the unfathomable. Cross the border into a world beyond imagination: The Unknown Dimension.</desc>
         <icon src="https://images.pluto.tv/series/69300b7363142c96a9356328/tile_1787286189367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6874ad743ffa5e0c917f6e20" start="20260930180000 +0000" stop="20260930220000 +0000">
+    <programme channel="6874ad743ffa5e0c917f6e20" start="20260930180000 +0000" stop="20260930210000 +0000">
         <title>The Outer Limits</title>
-        <desc>Ready for the unknown? For a new experience that could challenge everything? Because beyond the familiar reality lurks the unfathomable. Cross the border into a world beyond imagination: The Unknown Dimension.</desc>
-        <icon src="https://images.pluto.tv/series/69300b7363142c96a9356328/tile_1787286189367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/featuredImage_1756200180819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="688a44cf5d73ec0a3f49718b" start="20260930170000 +0000" stop="20260930173300 +0000">
         <title>Nurse Jackie</title>
         <desc>Jackie admits a dying patient she previously treated; O'Hara tells a sister Jackie's secrets; an organ donation form is forged.</desc>
         <icon src="https://images.pluto.tv/series/68b1c8c0e5ae05a890368d2f/tile_1756527293508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688a44cf5d73ec0a3f49718b" start="20260930173300 +0000" stop="20260930180500 +0000">
-        <title>Nurse Jackie</title>
-        <desc>Jackie uses an unusual ploy to get Coop off her back; O'Hara helps Jackie remove her wedding ring; Jackie begins mother-daughter dance lessons with Grace.</desc>
-        <icon src="https://images.pluto.tv/series/68b1c8c0e5ae05a890368d2f/tile_1756527293508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="688a44cf5d73ec0a3f49718b" start="20260930180500 +0000" stop="20260930210000 +0000">
+    <programme channel="688a44cf5d73ec0a3f49718b" start="20260930173300 +0000" stop="20260930210000 +0000">
         <title>Weeds / Nurse Jackie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/featuredImage_1756145412704.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50351,17 +50311,7 @@
         <desc>After Snooki is arrested, she becomes depressed until she meets a new guy. Deena meets Ronnie's stunt double.  Meanwhile, Jwoww's relationship with Tom comes to an end.</desc>
         <icon src="https://images.pluto.tv/series/64dba27fa5aa6e0013b942bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20260930170400 +0000" stop="20260930175300 +0000">
-        <title>Jersey Shore</title>
-        <desc>Ronnie and Jwoww make up leading to Sammi punching Ronnie in the face.  Vinny picks up a girl with an overbearing family.  And Mike learns Deena's dirty little secret.</desc>
-        <icon src="https://images.pluto.tv/series/64dba27fa5aa6e0013b942bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20260930175300 +0000" stop="20260930184200 +0000">
-        <title>Jersey Shore</title>
-        <desc>Ronnie's over-drinking causes some painful side effects.  Snooki meets a guy who may or may not be engaged.  And Pauly makes peace with an old nemesis</desc>
-        <icon src="https://images.pluto.tv/series/64dba27fa5aa6e0013b942bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20260930184200 +0000" stop="20260930210000 +0000">
+    <programme channel="68b9b0dbf9cf3d7cb9f56d88" start="20260930170400 +0000" stop="20260930210000 +0000">
         <title>MTV Jersey Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/featuredImage_1779087601349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50371,12 +50321,7 @@
         <desc>The Dark Gate opens, and Dark Energy spreads everywhere. To stop this, the Sailor Guardians must defeat Black Lady.</desc>
         <icon src="https://images.pluto.tv/series/6449304f737654001d46d293/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d25b620a0f3829b116bb6f" start="20260930171100 +0000" stop="20260930182200 +0000">
-        <title>Sailor Moon R: The Movie</title>
-        <desc>Sailor Moon and the Sailor Guardians unite to save Earth from an alien force!</desc>
-        <icon src="https://images.pluto.tv/series/64494beb20cb77001a4e6b4a/tile_1782926642169.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68d25b620a0f3829b116bb6f" start="20260930182200 +0000" stop="20260930210000 +0000">
+    <programme channel="68d25b620a0f3829b116bb6f" start="20260930171100 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/featuredImage_1766527273560.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50386,17 +50331,7 @@
         <desc>he Golds face-off with the dirty South when an urban hillbilly tries to sell them unusual items</desc>
         <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1775656083317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b012d1148fa1cd8a75d5c" start="20260930171200 +0000" stop="20260930173600 +0000">
-        <title>Hardcore Pawn</title>
-        <desc>When merchants start poaching customers on Les’ property, he plans to catch them in the act.</desc>
-        <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1775656083317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b012d1148fa1cd8a75d5c" start="20260930173600 +0000" stop="20260930180100 +0000">
-        <title>Hardcore Pawn</title>
-        <desc>Seth discovers a hidden room overflowing with merchandise his employees have been unable to sell.</desc>
-        <icon src="https://images.pluto.tv/series/69d65c923f22a165b0dae803/tile_1775656083317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b012d1148fa1cd8a75d5c" start="20260930180100 +0000" stop="20260930210000 +0000">
+    <programme channel="691b012d1148fa1cd8a75d5c" start="20260930171200 +0000" stop="20260930210000 +0000">
         <title>Hardcore Pawn</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/featuredImage_1776452409517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50406,12 +50341,7 @@
         <desc>To stop the Goa'uld invasion, the SG-1 team disobeys orders and transports itself to the Goa'uld attack headquarters. Landing amidst preparations for an all-out strike on Earth, the way home is blocked. Can the team avert disaster and save humanity?</desc>
         <icon src="https://images.pluto.tv/series/692da93b779bf41d1dc8daf4/tile_1764600125428.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="693bf37b75432d022c85ef01" start="20260930173800 +0000" stop="20260930182900 +0000">
-        <title>Stargate Atlantis</title>
-        <desc>The team hear of a great warrior with stories of defeating both the Genii and Wraith and seek him out in hopes of making a new ally. But when they learn this great warrior is none other than Lucius they believe he's up to his old tricks again.</desc>
-        <icon src="https://images.pluto.tv/series/691c84b66c0f157d0ee807fc/tile_1785782161726.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="693bf37b75432d022c85ef01" start="20260930182900 +0000" stop="20260930210000 +0000">
+    <programme channel="693bf37b75432d022c85ef01" start="20260930173800 +0000" stop="20260930210000 +0000">
         <title>Stargate</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/featuredImage_1765536677197.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50421,12 +50351,7 @@
         <desc>Taylor catches Mateo with Noah's illegal gun and promises to handle it; Louie visits Noah in lockup to tell him what he plans to do while the big cat is put away, and Noah can't do a thing.</desc>
         <icon src="https://images.pluto.tv/series/69cbe9e2a71dee2e83438011/tile_1774971363684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b03041cafd86d9dc5763c3" start="20260930172400 +0000" stop="20260930181100 +0000">
-        <title>All My Children</title>
-        <desc>Erica admits she tried to buy drugs from Louie, and Noah sees it as his best shot at putting him away; Maria keeps flashing back to the crash and is close to remembering who was behind the wheel.</desc>
-        <icon src="https://images.pluto.tv/series/69cbe9e2a71dee2e83438011/tile_1774971363684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="69b03041cafd86d9dc5763c3" start="20260930181100 +0000" stop="20260930210000 +0000">
+    <programme channel="69b03041cafd86d9dc5763c3" start="20260930172400 +0000" stop="20260930210000 +0000">
         <title>All My Children</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b03041cafd86d9dc5763c3/featuredImage_1776352106677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50436,12 +50361,7 @@
         <desc>Michael risks everything; Brittany breaks down after getting bad news in court.</desc>
         <icon src="https://images.pluto.tv/series/6a5c6d0d42ef4f4e8c26ff00/tile_1788845934330.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a205abba7b5a6c560b8ac25" start="20260930171700 +0000" stop="20260930180800 +0000">
-        <title>Love After Lockup</title>
-        <desc>Tracie explodes; Lizzie makes a shocking accusation; Michael loses it; Andrea walks out.</desc>
-        <icon src="https://images.pluto.tv/series/6a5c6d0d42ef4f4e8c26ff00/tile_1788845934330.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a205abba7b5a6c560b8ac25" start="20260930180800 +0000" stop="20260930210000 +0000">
+    <programme channel="6a205abba7b5a6c560b8ac25" start="20260930171700 +0000" stop="20260930210000 +0000">
         <title>All Reality We TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a205abba7b5a6c560b8ac25/featuredImage_1780507192460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50451,17 +50371,7 @@
         <desc>When Matt learns that Mary has filed for divorce and signed away custody of her son, he does not know how to tell Eric and Annie.</desc>
         <icon src="https://images.pluto.tv/series/6a5f9e89d8618839a6f74e48/tile_1784651402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56ae45c868f8fd9818d59a" start="20260930170332 +0000" stop="20260930175332 +0000">
-        <title>7th Heaven</title>
-        <desc>Simon and his new girlfriend make an unexpected visit to Glenoak to meet their respective parents, leading Annie to suspect their relationship is on the fast track.</desc>
-        <icon src="https://images.pluto.tv/series/6a5f9e89d8618839a6f74e48/tile_1784651402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a56ae45c868f8fd9818d59a" start="20260930175332 +0000" stop="20260930184332 +0000">
-        <title>7th Heaven</title>
-        <desc>Eric tries to avoid telling his parents about Mary's divorce, Simon's fiancee wants him to move up the wedding date and Lucy learns the difficulties of being an associate pastor.</desc>
-        <icon src="https://images.pluto.tv/series/6a5f9e89d8618839a6f74e48/tile_1784651402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a56ae45c868f8fd9818d59a" start="20260930184332 +0000" stop="20260930210000 +0000">
+    <programme channel="6a56ae45c868f8fd9818d59a" start="20260930170332 +0000" stop="20260930210000 +0000">
         <title>7th Heaven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/featuredImage_1784070025390.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -50471,12 +50381,7 @@
         <desc>The Angels try to help fulfill a dying inventor's dream of finishing his invention which uses water instead of coal as a source of energy.</desc>
         <icon src="https://images.pluto.tv/series/6a5fa0757a3bd954b7b928ee/tile_1784651894193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a56ae6e0cbe9fec861af567" start="20260930170900 +0000" stop="20260930180100 +0000">
-        <title>Touched By An Angel</title>
-        <desc>The Angels must intercede when a troubled teen goes on trial for violent behavior as a result of his obsession with a video game.</desc>
-        <icon src="https://images.pluto.tv/series/6a5fa0757a3bd954b7b928ee/tile_1784651894193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a56ae6e0cbe9fec861af567" start="20260930180100 +0000" stop="20260930210000 +0000">
+    <programme channel="6a56ae6e0cbe9fec861af567" start="20260930170900 +0000" stop="20260930210000 +0000">
         <title>Touched By An Angel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/featuredImage_1784070124490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

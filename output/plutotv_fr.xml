@@ -7009,6 +7009,11 @@ Nobita, Shizuka et Doraemon sauvent une vieille poupée des griffes d’un chien
         <desc>Un présentateur météo de Chicago (Cage), séparé de sa femme et de ses enfants, se pose la question de savoir si le succès sur le plan professionnel et le succès dans la vie privée sont mutuellement exclusifs.</desc>
         <icon src="https://images.pluto.tv/series/660a78f8ab971d0013b5b80a/tile_1782740162295.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260930010054 +0000" stop="20260930024954 +0000">
+        <title>Iceman</title>
+        <desc>1620, He Ying a pour mission d'apporter une machine pour voyager dans le temps à son empereur. Il est attaqué sont ensevelis sous une avalanche. He Ying et Sao se réveillent quatre siècles plus tard et poursuivre leur affrontement.</desc>
+        <icon src="https://images.pluto.tv/series/638868121fad0c0013d33d57/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed6d569d2d4000864a976" start="20260929204700 +0000" stop="20260929223100 +0000">
         <title>Louis la Brocante: Louis et les gueules noires</title>
         <desc>Louis a été contacté par Hélène Davel, maire de Saint-Martin, ancienne ville minière, pour faire l'expertise et la vente d'objets ayant appartenu à des mineurs.</desc>
@@ -27561,11 +27566,6 @@ L'aventure commence pour Takato et Guilmon !</desc>
         <desc>Un membre incorruptible qui vient d'être promu à la police des polices de Los Angeles découvre qu'un policier, en apparence intègre, est mêlé à de nombreux trafics...</desc>
         <icon src="https://images.pluto.tv/series/661d43c6bf522d00134d0bcd/tile_1786027683782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed168f72fcd0007e56269" start="20260930170539 +0000" stop="20260930191110 +0000">
-        <title>American Beauty</title>
-        <desc>L'existence de Lester est loin d'être parfaite. Il change quelques choses, devient plus libre, plus heureux. Mais Lester va bientôt apprendre que la liberté totale a un prix.</desc>
-        <icon src="https://images.pluto.tv/series/6617cf694da6e300139c4702/tile_1780308721931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260930123934 +0000" stop="20260930140831 +0000">
         <title>Time Run</title>
         <desc>Sergey est un champion d'athlétisme dont la carrière est détruite en un instant par un accident de voiture. Il découvre alors que si ses blessures ont diminué ses aptitudes, elles lui ont aussi donné des capacités paranormales pour voir le passé,...</desc>
@@ -33864,17 +33864,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
         <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260930170800 +0000" stop="20260930173800 +0000">
-        <title>Ridiculousness</title>
-        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
-        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260930173800 +0000" stop="20260930180800 +0000">
-        <title>Ridiculousness</title>
-        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
-        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260930180800 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260930170800 +0000" stop="20260930210000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33884,17 +33874,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Souriez ! Pluto TV Comédie est la chaîne qui réunit les meilleures séries comiques, les shows de stand-up les plus iconiques, les cartoons les plus déjantés et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/6a9fc0ef8ce7aa0932dcde6b/tile_1789032614712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260930170100 +0000" stop="20260930173100 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Souriez ! Pluto TV Comédie est la chaîne qui réunit les meilleures séries comiques, les shows de stand-up les plus iconiques, les cartoons les plus déjantés et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6a9fc0ef8ce7aa0932dcde6b/tile_1789032614712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260930173100 +0000" stop="20260930180100 +0000">
-        <title>Comedy Central Pluto TV</title>
-        <desc>Souriez ! Pluto TV Comédie est la chaîne qui réunit les meilleures séries comiques, les shows de stand-up les plus iconiques, les cartoons les plus déjantés et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6a9fc0ef8ce7aa0932dcde6b/tile_1789032614712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260930180100 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260930170100 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage_1789027818074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33904,17 +33884,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260930171000 +0000" stop="20260930174000 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
-        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260930174000 +0000" stop="20260930181000 +0000">
-        <title>Pluto TV Teen</title>
-        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
-        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260930181000 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260930171000 +0000" stop="20260930210000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33924,17 +33894,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1784586103676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260930170719 +0000" stop="20260930173719 +0000">
-        <title>Pluto TV Toons</title>
-        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
-        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1784586103676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260930173719 +0000" stop="20260930180719 +0000">
-        <title>Pluto TV Toons</title>
-        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
-        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1784586103676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260930180719 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260930170719 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33944,22 +33904,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Blaze et AJ trouvent une carte au trésor sur la plage. Avec l'aide de Pegwheel le pirate, ils partent à la quête des trois clés qui vont leur permettre d'ouvrir le coffre. Crusher essaye de les voler.</desc>
         <icon src="https://images.pluto.tv/series/6a04e416ea95ffff09c0b925/tile_1785193752317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260930170555 +0000" stop="20260930172734 +0000">
-        <title>Dora l'exploratrice</title>
-        <desc>Dora lit Alice au Pays des Merveilles aux trois chatons. Mais voilà qu'ils traversent le miroir ! Dora et Babouche le traversent à leur tour pour aller les chercher au goûter de la Reine.</desc>
-        <icon src="https://images.pluto.tv/series/6a04e415895ed2760f4c09e4/tile_1785193752498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260930172734 +0000" stop="20260930175145 +0000">
-        <title>Dora l'exploratrice</title>
-        <desc>Dora lit Alice au Pays des Merveilles aux trois chatons. Mais voilà qu'ils traversent le miroir ! Dora et Babouche le traversent à leur tour pour aller les chercher au goûter de la Reine.</desc>
-        <icon src="https://images.pluto.tv/series/6a04e415895ed2760f4c09e4/tile_1785193752498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260930175145 +0000" stop="20260930181450 +0000">
-        <title>Bubulle Guppies</title>
-        <desc>Molly et Phil rencontrent Dusty, une cowgirl qui va défiler avec Rusty, son cheval, lors de la grande parade des cowboys.</desc>
-        <icon src="https://images.pluto.tv/series/6a04e4165c3098aeb0afd4b3/tile_1785193753403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260930181450 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260930170555 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33969,17 +33914,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Carly, Sam et Freddie demandent aux fans d'iCarly de voter pour David Archuleta afin qu'il remporte AMERICA SINGS. Mais ils se sentent mal à l'aise par rapport au deuxième et l'aident à créer son clip.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260930172300 +0000" stop="20260930174830 +0000">
-        <title>iCarly: Sam devient gentille</title>
-        <desc>Sam craque sur un garçon qui n'aime que les filles très féminines. Carly aide alors Sam à se relooker.</desc>
-        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260930174830 +0000" stop="20260930181400 +0000">
-        <title>iCarly: Carly et Clyde - Première partie</title>
-        <desc>Griffin, le nouveau voisin de Carly et Spencer, vole la moto que Carly a offert à Spencer.</desc>
-        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260930181400 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260930172300 +0000" stop="20260930210000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33989,17 +33924,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Music on the playlist includes "Bad Day," "Dreams" and "Smarter Than You."</desc>
         <icon src="https://images.pluto.tv/series/68dbb901e466f791b5fb5207/tile_1759230465131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260930172400 +0000" stop="20260930175600 +0000">
-        <title>FailArmy Playlist</title>
-        <desc>Some popular hits on the playlist include "Undone," "Street Rat" and "Road Trippin'."</desc>
-        <icon src="https://images.pluto.tv/series/68dbb901e466f791b5fb5207/tile_1759230465131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260930175600 +0000" stop="20260930182800 +0000">
-        <title>FailArmy Playlist</title>
-        <desc>Hits on the playlist include "Under Attack," "Don't Trust Me" and "Hot Stuff."</desc>
-        <icon src="https://images.pluto.tv/series/68dbb901e466f791b5fb5207/tile_1759230465131.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260930182800 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260930172400 +0000" stop="20260930210000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34009,12 +33934,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Season XIV of the World Poker Tour continues at Bay 101 where Stefan Schillhabel commands the chip lead at the final table of the WPT Bay 101 Shooting Star.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1787320083164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260930173000 +0000" stop="20260930204500 +0000">
-        <title>WPT: Alpha 8: Florida</title>
-        <desc>The world's top professionals and wealthiest amateurs compete for $100,000 each at Seminole Hard Rock Hotel &amp; Casino.</desc>
-        <icon src="https://images.pluto.tv/series/5fb56254924702001a465885/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260930204500 +0000" stop="20260930210000 +0000">
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260930173000 +0000" stop="20260930210000 +0000">
         <title>WPT</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34024,17 +33944,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
         <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260930170200 +0000" stop="20260930173200 +0000">
-        <title>Juste pour rire GAGS</title>
-        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
-        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260930173200 +0000" stop="20260930180200 +0000">
-        <title>Juste pour rire GAGS</title>
-        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
-        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260930180200 +0000" stop="20260930210000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260930170200 +0000" stop="20260930210000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34044,17 +33954,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
         <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile_1784586389896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260930173000 +0000" stop="20260930180000 +0000">
-        <title>Euronews</title>
-        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile_1784586389896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260930180000 +0000" stop="20260930183000 +0000">
-        <title>Euronews</title>
-        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile_1784586389896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260930183000 +0000" stop="20260930210000 +0000">
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260930173000 +0000" stop="20260930210000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34064,12 +33964,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
         <icon src="https://images.pluto.tv/series/66eaceef9f04dd0013db82c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260930180000 +0000" stop="20260930190000 +0000">
-        <title>CBS News 24/7</title>
-        <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-        <icon src="https://images.pluto.tv/series/66eaceef9f04dd0013db82c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260930190000 +0000" stop="20260930210000 +0000">
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260930180000 +0000" stop="20260930210000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34079,17 +33974,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260930173000 +0000" stop="20260930180000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260930180000 +0000" stop="20260930183000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260930183000 +0000" stop="20260930210000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260930173000 +0000" stop="20260930210000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34099,17 +33984,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1784587102601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260930171721 +0000" stop="20260930174721 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
-        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1784587102601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260930174721 +0000" stop="20260930181721 +0000">
-        <title>Pluto TV Kids Classics</title>
-        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
-        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1784587102601.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260930181721 +0000" stop="20260930210000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260930171721 +0000" stop="20260930210000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34119,12 +33994,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Watch the full match replay between Australia and Brazil played at Stade de la Mosson, Montpellier on Thursday, 13 June 2019 at 18:00.</desc>
         <icon src="https://images.pluto.tv/series/67b36bcb96446070bd3d7c7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c2a2d2433010008df7e92" start="20260930171300 +0000" stop="20260930190600 +0000">
-        <title>2019 FIFA Women's World Cup</title>
-        <desc>Des moments légendaires aux matchs inoubliables, en passant par les histoires captivantes qui se cachent derrière les exploits des plus grandes stars, FIFA+ vous offre une expérience footballistique unique et immersive</desc>
-        <icon src="https://images.pluto.tv/series/67b36bcb96446070bd3d7c7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c2a2d2433010008df7e92" start="20260930190600 +0000" stop="20260930210000 +0000">
+    <programme channel="660c2a2d2433010008df7e92" start="20260930171300 +0000" stop="20260930210000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c2a2d2433010008df7e92/featuredImage_1750065043035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34134,12 +34004,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260930180000 +0000" stop="20260930190000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260930190000 +0000" stop="20260930210000 +0000">
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260930180000 +0000" stop="20260930210000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/featuredImage_1775159909058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34154,12 +34019,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>Two-time world champion Adrian Lewis steps back into the spotlight in an exclusive interview with Chris Murphy.</desc>
         <icon src="https://images.pluto.tv/series/689a07379017101f050d5eba/tile_1779228687566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671643fc5534bb00089187ad" start="20260930172700 +0000" stop="20260930180700 +0000">
-        <title>MODUS Moments: Devon Petersen &amp; Derek Coulson</title>
-        <desc>Devon Petersen &amp; Derek Coulson relive their most thrilling and unforgettable moments on the Live Lounge stage.</desc>
-        <icon src="https://images.pluto.tv/series/692dbf67232b4e31aa57d654/tile_1769155944553.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="671643fc5534bb00089187ad" start="20260930180700 +0000" stop="20260930210000 +0000">
+    <programme channel="671643fc5534bb00089187ad" start="20260930172700 +0000" stop="20260930210000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671643fc5534bb00089187ad/featuredImage_1732094996757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34179,17 +34039,7 @@ Lorsque Nobita essaie de jeter un pissenlit qu’il a trouvé dans une vieille b
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
         <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b78b83355184c667770" start="20260930173000 +0000" stop="20260930180000 +0000">
-        <title>UFC</title>
-        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
-        <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b78b83355184c667770" start="20260930180000 +0000" stop="20260930183000 +0000">
-        <title>UFC</title>
-        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
-        <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b78b83355184c667770" start="20260930183000 +0000" stop="20260930210000 +0000">
+    <programme channel="67921b78b83355184c667770" start="20260930173000 +0000" stop="20260930210000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b78b83355184c667770/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
